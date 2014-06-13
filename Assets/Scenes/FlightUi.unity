@@ -7920,7 +7920,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1477310460}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 215, y: -47, z: 0}
+  m_LocalPosition: {x: 215.5, y: -47, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1271744975}
@@ -7939,19 +7939,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   leftAnchor:
-    target: {fileID: 0}
+    target: {fileID: 148018308}
     relative: 0
-    absolute: 445
+    absolute: 446
   rightAnchor:
-    target: {fileID: 0}
+    target: {fileID: 148018308}
     relative: 1
-    absolute: -16
+    absolute: -15
   bottomAnchor:
-    target: {fileID: 0}
+    target: {fileID: 148018308}
     relative: 0
-    absolute: -142
+    absolute: 14
   topAnchor:
-    target: {fileID: 0}
+    target: {fileID: 148018308}
     relative: 1
     absolute: -108
   updateAnchors: 1
@@ -7963,7 +7963,7 @@ MonoBehaviour:
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: .752895772
+  aspectRatio: .754826248
   mAtlas: {fileID: 11400000, guid: 50e684b3477a92945af9e1bb75e02659, type: 2}
   mSpriteName: BgPopupAlpha
   mType: 1
