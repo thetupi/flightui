@@ -41,8 +41,8 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: 90bebde0f3d4bdc4799dd1ce43374a48, type: 2}
   mSprites:
   - name: AplhaBgChoice
-    x: 48
-    y: 94
+    x: 70
+    y: 183
     width: 21
     height: 94
     borderLeft: 7
@@ -54,8 +54,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BarEmpty
-    x: 481
-    y: 255
+    x: 461
+    y: 278
     width: 23
     height: 14
     borderLeft: 5
@@ -67,8 +67,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BarNormal
-    x: 481
-    y: 239
+    x: 486
+    y: 278
     width: 23
     height: 14
     borderLeft: 0
@@ -80,8 +80,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BarProgress
-    x: 24
-    y: 2
+    x: 0
+    y: 130
     width: 23
     height: 14
     borderLeft: 0
@@ -93,8 +93,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBlackMissions
-    x: 0
-    y: 17
+    x: 461
+    y: 341
     width: 22
     height: 171
     borderLeft: 5
@@ -106,8 +106,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBlueWhite
-    x: 24
-    y: 18
+    x: 485
+    y: 342
     width: 22
     height: 170
     borderLeft: 10
@@ -119,8 +119,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBtnAirPlanes
-    x: 106
-    y: 240
+    x: 0
+    y: 146
     width: 68
     height: 131
     borderLeft: 20
@@ -132,8 +132,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBtnBack
-    x: 433
-    y: 228
+    x: 346
+    y: 29
     width: 46
     height: 78
     borderLeft: 10
@@ -145,8 +145,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBtnHudInf
-    x: 279
-    y: 382
+    x: 106
+    y: 179
     width: 103
     height: 130
     borderLeft: 40
@@ -171,8 +171,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgHudTop
-    x: 279
-    y: 308
+    x: 211
+    y: 198
     width: 170
     height: 72
     borderLeft: 32
@@ -184,8 +184,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgLabelBtnMission
-    x: 481
-    y: 271
+    x: 178
+    y: 96
     width: 27
     height: 15
     borderLeft: 5
@@ -196,9 +196,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: BgPopup
+    x: 383
+    y: 167
+    width: 113
+    height: 103
+    borderLeft: 40
+    borderRight: 40
+    borderTop: 40
+    borderBottom: 40
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: BgPopupAlpha
-    x: 384
-    y: 409
+    x: 211
+    y: 93
     width: 111
     height: 103
     borderLeft: 40
@@ -210,8 +223,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgSCBtn
-    x: 323
-    y: 217
+    x: 326
+    y: 284
     width: 24
     height: 25
     borderLeft: 4
@@ -223,8 +236,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgScLabel
-    x: 142
-    y: 379
+    x: 178
+    y: 113
     width: 28
     height: 31
     borderLeft: 3
@@ -235,9 +248,35 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: BigStarOff
+    x: 0
+    y: 412
+    width: 180
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BigStarOn
+    x: 182
+    y: 413
+    width: 180
+    height: 99
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: BtnFly2
-    x: 176
-    y: 252
+    x: 89
+    y: 58
     width: 87
     height: 62
     borderLeft: 15
@@ -249,8 +288,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnGet
-    x: 265
-    y: 244
+    x: 0
+    y: 58
     width: 87
     height: 62
     borderLeft: 24
@@ -262,8 +301,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnGray
-    x: 417
-    y: 161
+    x: 294
+    y: 281
     width: 30
     height: 28
     borderLeft: 8
@@ -275,8 +314,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnGreen
-    x: 106
-    y: 381
+    x: 324
+    y: 167
     width: 34
     height: 29
     borderLeft: 10
@@ -288,8 +327,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnMission
-    x: 175
-    y: 373
+    x: 357
+    y: 272
     width: 102
     height: 139
     borderLeft: 60
@@ -300,9 +339,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: BtnShare
+    x: 364
+    y: 447
+    width: 86
+    height: 65
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: CircleStroke
-    x: 370
-    y: 155
+    x: 461
+    y: 294
     width: 45
     height: 45
     borderLeft: 0
@@ -314,8 +366,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoAdd
-    x: 384
-    y: 383
+    x: 262
+    y: 7
     width: 24
     height: 24
     borderLeft: 0
@@ -327,8 +379,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoArrowBack
-    x: 451
-    y: 312
+    x: 403
+    y: 122
     width: 50
     height: 43
     borderLeft: 0
@@ -340,8 +392,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoBrakes
-    x: 451
-    y: 357
+    x: 126
+    y: 6
     width: 50
     height: 50
     borderLeft: 0
@@ -353,8 +405,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoEngine
-    x: 354
-    y: 202
+    x: 0
+    y: 10
     width: 68
     height: 46
     borderLeft: 0
@@ -365,9 +417,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: IcoFace
+    x: 70
+    y: 3
+    width: 54
+    height: 53
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: IcoFly
-    x: 424
-    y: 191
+    x: 211
+    y: 274
     width: 81
     height: 35
     borderLeft: 0
@@ -379,8 +444,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoFuselage
-    x: 72
-    y: 180
+    x: 262
+    y: 33
     width: 82
     height: 58
     borderLeft: 0
@@ -392,8 +457,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoHangar
-    x: 260
-    y: 197
+    x: 394
+    y: 62
     width: 61
     height: 45
     borderLeft: 0
@@ -405,8 +470,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoLandingGear
-    x: 354
-    y: 250
+    x: 324
+    y: 109
     width: 77
     height: 56
     borderLeft: 0
@@ -418,8 +483,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoPlane
-    x: 176
-    y: 191
+    x: 178
+    y: 32
     width: 82
     height: 59
     borderLeft: 0
@@ -431,8 +496,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoSC
-    x: 323
-    y: 155
+    x: 455
+    y: 120
     width: 45
     height: 45
     borderLeft: 0
@@ -444,8 +509,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoStarsHud
-    x: 176
-    y: 316
+    x: 70
+    y: 122
     width: 99
     height: 55
     borderLeft: 0
@@ -457,8 +522,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoTools
-    x: 260
-    y: 150
+    x: 457
+    y: 73
     width: 45
     height: 45
     borderLeft: 0
@@ -470,8 +535,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Marker
-    x: 72
-    y: 246
+    x: 171
+    y: 146
     width: 32
     height: 31
     borderLeft: 0
@@ -483,8 +548,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: StarOffMissionBtn
-    x: 481
-    y: 288
+    x: 313
+    y: 9
     width: 23
     height: 22
     borderLeft: 0
@@ -496,8 +561,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: StarOnMissionBtn
-    x: 410
-    y: 384
+    x: 288
+    y: 8
     width: 23
     height: 23
     borderLeft: 0
@@ -509,8 +574,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: TagChoice
-    x: 0
-    y: 412
+    x: 182
+    y: 311
     width: 173
     height: 100
     borderLeft: 0
@@ -522,8 +587,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: TooltipPlane
-    x: 0
-    y: 190
+    x: 106
+    y: 323
     width: 70
     height: 87
     borderLeft: 10
