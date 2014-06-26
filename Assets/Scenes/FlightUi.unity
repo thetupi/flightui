@@ -5155,7 +5155,7 @@ GameObject:
   - 4: {fileID: 632809687}
   - 114: {fileID: 632809688}
   m_Layer: 9
-  m_Name: Sprite
+  m_Name: Acelerator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5168,11 +5168,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 632809686}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 477.888916, y: -191.050629, z: 0}
+  m_LocalPosition: {x: 478, y: -191.000031, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1598842158}
-  m_Father: {fileID: 1011606466}
+  m_Father: {fileID: 1723844252}
 --- !u!114 &632809688
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5185,19 +5185,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   leftAnchor:
-    target: {fileID: 1011606466}
+    target: {fileID: 1723844252}
     relative: 1
-    absolute: -142
+    absolute: -141
   rightAnchor:
-    target: {fileID: 1011606466}
+    target: {fileID: 1723844252}
     relative: 1
-    absolute: -40
+    absolute: -39
   bottomAnchor:
-    target: {fileID: 1011606466}
+    target: {fileID: 1723844252}
     relative: 0
     absolute: 8
   topAnchor:
-    target: {fileID: 1011606466}
+    target: {fileID: 1723844252}
     relative: .5
     absolute: -70
   updateAnchors: 1
@@ -8671,7 +8671,6 @@ Transform:
   - {fileID: 1723844252}
   - {fileID: 500604754}
   - {fileID: 870963447}
-  - {fileID: 632809687}
   - {fileID: 297637340}
   - {fileID: 1434054762}
   - {fileID: 2055770633}
@@ -13509,7 +13508,7 @@ GameObject:
   - 4: {fileID: 1598842158}
   - 114: {fileID: 1598842159}
   m_Layer: 9
-  m_Name: Sprite
+  m_Name: Acelerator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14766,6 +14765,7 @@ Transform:
   m_LocalPosition: {x: 0, y: -.101257324, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 632809687}
   - {fileID: 939596919}
   - {fileID: 1979761719}
   - {fileID: 1217863325}
