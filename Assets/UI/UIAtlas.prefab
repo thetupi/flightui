@@ -54,8 +54,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: AplhaBgChoice
-    x: 665
-    y: 83
+    x: 738
+    y: 145
     width: 21
     height: 94
     borderLeft: 7
@@ -67,8 +67,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BarEmpty
-    x: 111
-    y: 30
+    x: 656
+    y: 241
     width: 23
     height: 14
     borderLeft: 5
@@ -80,8 +80,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BarNormal
-    x: 330
-    y: 183
+    x: 25
+    y: 5
     width: 23
     height: 14
     borderLeft: 0
@@ -93,8 +93,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BarProgress
-    x: 355
-    y: 183
+    x: 0
+    y: 5
     width: 23
     height: 14
     borderLeft: 0
@@ -119,7 +119,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBlackCrono
-    x: 85
+    x: 119
     y: 13
     width: 24
     height: 31
@@ -132,8 +132,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBlackMissions
-    x: 627
-    y: 185
+    x: 690
+    y: 114
     width: 22
     height: 171
     borderLeft: 5
@@ -145,8 +145,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBlueWhite
-    x: 641
-    y: 13
+    x: 714
+    y: 115
     width: 22
     height: 170
     borderLeft: 10
@@ -158,8 +158,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBtnAirPlanes
-    x: 473
-    y: 276
+    x: 510
+    y: 307
     width: 68
     height: 131
     borderLeft: 20
@@ -171,8 +171,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBtnBack
-    x: 651
-    y: 324
+    x: 625
+    y: 36
     width: 46
     height: 78
     borderLeft: 10
@@ -184,8 +184,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBtnClock
-    x: 411
-    y: 207
+    x: 524
+    y: 238
     width: 130
     height: 67
     borderLeft: 28
@@ -197,8 +197,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBtnHudInf
-    x: 286
-    y: 382
+    x: 405
+    y: 256
     width: 103
     height: 130
     borderLeft: 40
@@ -210,8 +210,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgBtnHudInfGreen
-    x: 286
-    y: 46
+    x: 308
+    y: 114
     width: 104
     height: 131
     borderLeft: 40
@@ -235,9 +235,35 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: BGClocks1
+    x: 286
+    y: 388
+    width: 124
+    height: 124
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BGClocks2
+    x: 182
+    y: 53
+    width: 124
+    height: 124
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: BgCronoHeight
-    x: 0
-    y: 7
+    x: 263
+    y: 14
     width: 41
     height: 37
     borderLeft: 5
@@ -249,8 +275,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgHudTop
-    x: 301
-    y: 308
+    x: 412
+    y: 440
     width: 170
     height: 72
     borderLeft: 32
@@ -262,8 +288,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgLabelBtnMission
-    x: 301
-    y: 182
+    x: 145
+    y: 2
     width: 27
     height: 15
     borderLeft: 5
@@ -275,8 +301,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgLabelClock
-    x: 464
-    y: 2
+    x: 0
+    y: 21
     width: 84
     height: 23
     borderLeft: 0
@@ -288,8 +314,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgPopup
-    x: 391
-    y: 409
+    x: 308
+    y: 9
     width: 113
     height: 103
     borderLeft: 40
@@ -301,8 +327,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgPopupAlpha
-    x: 392
-    y: 94
+    x: 423
+    y: 42
     width: 111
     height: 103
     borderLeft: 40
@@ -314,21 +340,21 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgRadio
-    x: 43
-    y: 9
+    x: 580
+    y: 311
     width: 40
     height: 35
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
+    borderLeft: 2
+    borderRight: 15
+    borderTop: 2
+    borderBottom: 2
     paddingLeft: 0
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
   - name: BgSCBtn
-    x: 447
-    y: 281
+    x: 145
+    y: 19
     width: 24
     height: 25
     borderLeft: 4
@@ -340,8 +366,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgScLabel
-    x: 543
-    y: 207
+    x: 506
+    y: 9
     width: 28
     height: 31
     borderLeft: 3
@@ -366,8 +392,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BgWhiteCrono
-    x: 632
-    y: 371
+    x: 493
+    y: 407
     width: 13
     height: 31
     borderLeft: 10
@@ -405,8 +431,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnFly2
-    x: 552
-    y: 10
+    x: 536
+    y: 9
     width: 87
     height: 62
     borderLeft: 15
@@ -418,8 +444,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnGet
-    x: 543
-    y: 358
+    x: 596
+    y: 174
     width: 87
     height: 62
     borderLeft: 24
@@ -431,8 +457,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnGray
-    x: 599
-    y: 423
+    x: 656
+    y: 257
     width: 30
     height: 28
     borderLeft: 8
@@ -444,8 +470,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnGreen
-    x: 411
-    y: 277
+    x: 625
+    y: 5
     width: 34
     height: 29
     borderLeft: 10
@@ -457,8 +483,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnMission
-    x: 182
-    y: 38
+    x: 301
+    y: 247
     width: 102
     height: 139
     borderLeft: 60
@@ -470,8 +496,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnPause
-    x: 764
-    y: 468
+    x: 738
+    y: 241
     width: 52
     height: 44
     borderLeft: 0
@@ -483,8 +509,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnPlugOff
-    x: 683
-    y: 465
+    x: 182
+    y: 4
     width: 79
     height: 47
     borderLeft: 0
@@ -496,8 +522,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnPlugOn
-    x: 632
-    y: 404
+    x: 412
+    y: 391
     width: 79
     height: 47
     borderLeft: 0
@@ -509,8 +535,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: BtnShare
-    x: 464
-    y: 27
+    x: 584
+    y: 447
     width: 86
     height: 65
     borderLeft: 20
@@ -522,8 +548,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: CircleStroke
-    x: 505
-    y: 103
+    x: 773
+    y: 467
     width: 45
     height: 45
     borderLeft: 0
@@ -535,8 +561,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Circulos
-    x: 506
-    y: 422
+    x: 580
+    y: 348
     width: 91
     height: 90
     borderLeft: 0
@@ -548,8 +574,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: ClockLines
-    x: 301
-    y: 199
+    x: 414
+    y: 147
     width: 108
     height: 107
     borderLeft: 0
@@ -561,8 +587,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoAdd
-    x: 391
-    y: 383
+    x: 738
+    y: 119
     width: 24
     height: 24
     borderLeft: 0
@@ -574,8 +600,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoArrow
-    x: 665
-    y: 31
+    x: 673
+    y: 62
     width: 39
     height: 50
     borderLeft: 0
@@ -587,8 +613,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoArrowBack
-    x: 665
-    y: 179
+    x: 740
+    y: 304
     width: 50
     height: 43
     borderLeft: 0
@@ -600,8 +626,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoBrakes
-    x: 651
-    y: 224
+    x: 736
+    y: 8
     width: 50
     height: 50
     borderLeft: 0
@@ -613,8 +639,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoCirculo
-    x: 380
-    y: 187
+    x: 493
+    y: 395
     width: 10
     height: 10
     borderLeft: 0
@@ -626,8 +652,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoEngine
-    x: 651
-    y: 276
+    x: 673
+    y: 349
     width: 68
     height: 46
     borderLeft: 0
@@ -639,8 +665,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoFace
-    x: 699
-    y: 349
+    x: 714
+    y: 60
     width: 54
     height: 53
     borderLeft: 0
@@ -652,8 +678,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoFly
-    x: 286
-    y: 9
+    x: 423
+    y: 5
     width: 81
     height: 35
     borderLeft: 0
@@ -665,8 +691,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoFuselage
-    x: 543
-    y: 298
+    x: 673
+    y: 397
     width: 82
     height: 58
     borderLeft: 0
@@ -678,8 +704,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoHangar
-    x: 713
-    y: 418
+    x: 673
+    y: 13
     width: 61
     height: 45
     borderLeft: 0
@@ -691,8 +717,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoLandingGear
-    x: 543
-    y: 240
+    x: 611
+    y: 116
     width: 77
     height: 56
     borderLeft: 0
@@ -704,8 +730,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoPiramide
-    x: 683
-    y: 454
+    x: 596
+    y: 151
     width: 10
     height: 9
     borderLeft: 0
@@ -717,8 +743,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoPlane
-    x: 599
-    y: 453
+    x: 656
+    y: 287
     width: 82
     height: 59
     borderLeft: 0
@@ -730,8 +756,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoPonteiro
-    x: 713
-    y: 408
+    x: 263
+    y: 4
     width: 39
     height: 8
     borderLeft: 0
@@ -743,8 +769,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoQuadrado
-    x: 632
-    y: 359
+    x: 596
+    y: 162
     width: 10
     height: 10
     borderLeft: 1
@@ -756,8 +782,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoSC
-    x: 755
-    y: 371
+    x: 790
+    y: 363
     width: 45
     height: 45
     borderLeft: 0
@@ -769,8 +795,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoSCshine
-    x: 552
-    y: 74
+    x: 536
+    y: 73
     width: 73
     height: 74
     borderLeft: 0
@@ -782,8 +808,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoStarsHud
-    x: 505
-    y: 150
+    x: 672
+    y: 457
     width: 99
     height: 55
     borderLeft: 0
@@ -795,8 +821,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: IcoTools
-    x: 721
-    y: 302
+    x: 757
+    y: 410
     width: 45
     height: 45
     borderLeft: 0
@@ -808,8 +834,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: Marker
-    x: 606
-    y: 152
+    x: 622
+    y: 315
     width: 32
     height: 31
     borderLeft: 0
@@ -821,8 +847,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: SpeakerGray
-    x: 703
-    y: 229
+    x: 743
+    y: 350
     width: 45
     height: 45
     borderLeft: 0
@@ -834,8 +860,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: SpeakerRed
-    x: 776
-    y: 421
+    x: 804
+    y: 420
     width: 44
     height: 45
     borderLeft: 0
@@ -847,8 +873,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: StarOffMissionBtn
-    x: 442
-    y: 385
+    x: 845
+    y: 490
     width: 23
     height: 22
     borderLeft: 0
@@ -860,8 +886,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: StarOnMissionBtn
-    x: 417
-    y: 384
+    x: 820
+    y: 489
     width: 23
     height: 23
     borderLeft: 0
@@ -886,8 +912,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: TooltipOrange
-    x: 573
-    y: 211
+    x: 86
+    y: 17
     width: 31
     height: 27
     borderLeft: 18
@@ -899,8 +925,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: TooltipPlane
-    x: 392
-    y: 5
+    x: 524
+    y: 149
     width: 70
     height: 87
     borderLeft: 10
